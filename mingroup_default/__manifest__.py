@@ -1,8 +1,8 @@
 {
-    'name': 'citval',
+    'name': 'mingroup',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto citval",
+    'summary': "Proyecto mingroup",
     'author': 'Sdeh',
     'depends': [
         'base',
